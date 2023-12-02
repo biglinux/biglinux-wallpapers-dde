@@ -1,7 +1,7 @@
 # Maintainer: Barnabé di Kartola <barnabedikartola@gmail.com>
 
 pkgname=biglinux-wallpapers-dde
-pkgdesc="Deepin Wallpaper Set"
+pkgdesc="Packages Deepin Wallpaper Set"
 # depends=('')
 # makedepends=('')
 # conflicts=('')
